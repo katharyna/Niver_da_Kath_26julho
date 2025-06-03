@@ -28,7 +28,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             color: white;
-            background: url('Fotoespelho.png') no-repeat center center fixed;
+            background: url('kathybebendo.jpeg') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             min-height: 100vh;
@@ -364,13 +364,13 @@
         </div>
 
         <div class="section">
-            <h3>Você pensou que iria faltar, né?</h3>
+            <h3>Você pensou que ia faltar, né?</h3>
             <ul>
-                <li><strong>BALÃO SUPRESA!</strong> - lembra aqueles de festa? vai ter que estourar! 🥳 kkkkk</li>
+                <li><strong>BALÃO SUPRESA!</strong> - lembra aqueles de festa? Vai ter que estourar! 🥳 kkkkk</li>
                 <img src="balaosurpresa4.png" alt="balaosurpresa" class="balaosupresa-img"><br>
                 
                 <div class="playlist">
-                    <p><center>Venha que vai ter muita curtição</center></p>
+                    <p><center>Venha curtir, sorrir!</center></p>
                 </div>
             </ul>
         </div>
