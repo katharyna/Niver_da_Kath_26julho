@@ -330,7 +330,6 @@
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
                 <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>                
-                <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
                 <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar! Sugestões de música? Pode ser Pop, Rock, nacionais ou internacionais, ou o que desejar! Mande mensagem</li>
             </ul>
@@ -343,7 +342,7 @@
             <div class="beer-info">
                 <img src="Chopeira.png" alt="Bebidas">
                 <div>
-                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter beer pong e alguns petiscos!</p>
+                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter BEER PONG! - Preparem-se para a competição!</p>
                 </div>
             </div>
             <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
@@ -352,15 +351,7 @@
 
         
 
-       
-
-        <div class="section">
-            <h3>👗 DRESS CODE:</h3>
-            <ul>
-                <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
-                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno!</li>
-            </ul>
-        </div>
+    
 
         <div class="section">
             <h3>Você pensou que ia faltar, né?</h3>
@@ -371,6 +362,15 @@
                 <div class="playlist">
                     <p><center>Venha curtir, sorrir!</center></p>
                 </div>
+            </ul>
+        </div>
+
+
+        <div class="section">
+            <h3>👗 DRESS CODE:</h3>
+            <ul>
+                <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
+                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno!</li>
             </ul>
         </div>
 
