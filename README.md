@@ -431,12 +431,7 @@
        
 
         <footer>
-    
             <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular! <p><strong>Se estiver apertado, não deixa de vir! O importante é a sua presença! 😘 </strong></p>
-
-               
-       
-        
             <br>
             <br>
             <br>
