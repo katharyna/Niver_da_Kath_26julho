@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -333,39 +334,30 @@
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
                 <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar! Sugestões de música? Pode ser Pop, Rock, nacionais ou internacionais, ou o que desejar! Mande mensagem</li>
             </ul>
-           
         </div>
 
-
- <div class="section">
+        <div class="section">
             <h3>🍺 CHOPEIRA GRÁTIS!</h3>
             <div class="beer-info">
                 <img src="Chopeira.png" alt="Bebidas">
                 <div>
-                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p><strong>Vai ter BEER PONG! - Preparem-se para a competição!</strong></p>
+                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p>
+                    <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p>
+                    <p><strong>Vai ter BEER PONG! - Preparem-se para a competição!</strong></p>
                 </div>
-                     </div>
-            <p></p>
+            </div>
         </div>
-        
-
-
-        
-
-    
 
         <div class="section">
             <h3>Você pensou que ia faltar, né?</h3>
             <ul>
                 <li><strong>BALÃO SUPRESA!</strong> - lembra aqueles de festa? Vai ter que estourar! 🥳 kkkkk</li>
                 <img src="balaosurpresa4.png" alt="balaosurpresa" class="balaosupresa-img"><br>
-                
                 <div class="playlist">
                     <p><center>Venha curtir, sorrir!</center></p>
                 </div>
             </ul>
         </div>
-
 
         <div class="section">
             <h3>👗 DRESS CODE:</h3>
@@ -375,24 +367,19 @@
             </ul>
         </div>
 
-
-
- <div class="section">
+        <div class="section">
             <h3>📅 QUANDO:</h3>
             <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de julho</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas </strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas</strong></p>
         </div>
 
         <div class="section">
             <h3>📍 ONDE VAI SER? EM COPACABANA!</h3>
             <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
-            
             <div class="map-container">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.254216178014!2d-43.18668892432058!3d-22.97055504024793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd544d245819d%3A0x5c35a3f5a5f6b5a4!2sRua%20Santa%20Clara%2C%20431%20-%20Copacabana%2C%20Rio%20de%20Janeiro%20-%20RJ!5e0!3m2!1spt-BR!2sbr!4v1620000000000!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
-        
-        
 
         <div class="section">
             <h3>📞 CONFIRMAÇÃO:</h3>
@@ -423,23 +410,18 @@
             </div>
         </div>
 
-
-
-
-
-
-       
-
         <footer>
-            <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular! <p><strong>Se estiver apertado, não deixa de vir! O importante é a sua presença! 😘 </strong></p>
+            <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
+            <p><strong>Se estiver apertado, não deixa de vir! O importante é a sua presença! 😘</strong></p>
             <br>
             <br>
             <br>
             <br>
             <p class="text-center">Developed by <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
         </footer>
-    </div> <!-- Fecha o div.container -->
-  
+    </div>
+
+
 
      
 
