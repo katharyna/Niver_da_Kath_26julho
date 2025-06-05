@@ -329,10 +329,7 @@
             <h3>🍖 O QUE ROLA:</h3>
             <ul>
                 <li><strong>CHURRASCO COMPARTILHADO</strong> - Tragam 500g de carne ou qualquer coisa de churrasco</li>
-                <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>
-                
-                 <strong><center>SE LIGA NO BÔNUS (0800!) 😉</center></strong><br>
-                <li><strong>CHOPEIRA LIBERADA</strong> - Não precisa levar bebida, a não ser que você beba outra coisa!</li>
+                <img src="churrasco.jpg" alt="Churrasco" class="churrasco-img"><br>                
                 <li><strong>BEER PONG</strong> - Preparem-se para a competição!</li>
                 <li><strong>PETISCOS</strong> - Vai ter umas gostosuras pra acompanhar</li>
                 <li><strong>PLAYLIST ANIMADA</strong> - Só sucessos pra agitar! Sugestões de música? Pode ser Pop, Rock, nacionais ou internacionais, ou o que desejar! Mande mensagem</li>
@@ -342,7 +339,7 @@
 
 
  <div class="section">
-            <h3>✨ OBS:</h3>
+            <h3>✨ CHOPEIRA GRÁTIS!</h3>
             <div class="beer-info">
                 <img src="Chopeira.png" alt="Bebidas">
                 <div>
@@ -355,20 +352,7 @@
 
         
 
-        <div class="section">
-            <h3>📅 QUANDO:</h3>
-            <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de julho</strong></p>
-            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas </strong></p>
-        </div>
-
-        <div class="section">
-            <h3>📍 ONDE VAI SER? EM COPACABANA!</h3>
-            <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
-            
-            <div class="map-container">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.254216178014!2d-43.18668892432058!3d-22.97055504024793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd544d245819d%3A0x5c35a3f5a5f6b5a4!2sRua%20Santa%20Clara%2C%20431%20-%20Copacabana%2C%20Rio%20de%20Janeiro%20-%20RJ!5e0!3m2!1spt-BR!2sbr!4v1620000000000!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
-            </div>
-        </div>
+       
 
         <div class="section">
             <h3>👗 DRESS CODE:</h3>
@@ -389,6 +373,24 @@
                 </div>
             </ul>
         </div>
+
+
+
+ <div class="section">
+            <h3>📅 QUANDO:</h3>
+            <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de julho</strong></p>
+            <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas </strong></p>
+        </div>
+
+        <div class="section">
+            <h3>📍 ONDE VAI SER? EM COPACABANA!</h3>
+            <p>Rua Santa Clara 431 - Copacabana, Rio de Janeiro</p>
+            
+            <div class="map-container">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.254216178014!2d-43.18668892432058!3d-22.97055504024793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd544d245819d%3A0x5c35a3f5a5f6b5a4!2sRua%20Santa%20Clara%2C%20431%20-%20Copacabana%2C%20Rio%20de%20Janeiro%20-%20RJ!5e0!3m2!1spt-BR!2sbr!4v1620000000000!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+        
         
 
         <div class="section">
