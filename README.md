@@ -432,11 +432,10 @@
 
         <footer>
     
-            <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
+            <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular! <p>Se estiver apertado, não deixa de vir! O importante é a presença! 😘 </p>
 
-                </div>
-            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
-        </div>
+               
+       
         
             <br>
             <br>
