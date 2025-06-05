@@ -340,6 +340,21 @@
            
         </div>
 
+
+ <div class="section">
+            <h3>✨ OBS:</h3>
+            <div class="beer-info">
+                <img src="Chopeira.png" alt="Bebidas">
+                <div>
+                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter beer pong e alguns petiscos!</p>
+                </div>
+            </div>
+            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
+        </div>
+
+
+        
+
         <div class="section">
             <h3>📅 QUANDO:</h3>
             <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de julho</strong></p>
@@ -405,16 +420,12 @@
             </div>
         </div>
 
-        <div class="section">
-            <h3>✨ OBS:</h3>
-            <div class="beer-info">
-                <img src="Chopeira.png" alt="Bebidas">
-                <div>
-                    <p><strong>Vai ter Chopeira 0800! Então não precisa levar bebida, a não ser que você beba outra coisa!</strong></p> <p>Só tragam 500g de carne ou qualquer coisa de churrasco, que iremos colocar uma carninha.</p> <p>Vai ter beer pong e alguns petiscos!</p>
-                </div>
-            </div>
-            <p><center>Se estiver apertado, não deixa de vir! O importante é a presença! <span class="emoji">😘</span></center></p>
-        </div>
+
+
+
+
+
+       
 
         <footer>
             <p class="flashing">💃 ÚLTIMA CHAMADA: Vamos pular!</p>
