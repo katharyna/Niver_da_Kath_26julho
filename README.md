@@ -438,6 +438,7 @@
             <br>
             <p class="text-center">Developed by <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
         </footer>
+    </div> <!-- Fecha o div.container -->
   
 
      
