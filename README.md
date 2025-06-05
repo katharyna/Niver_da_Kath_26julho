@@ -338,7 +338,7 @@
 
 
  <div class="section">
-            <h3>✨ CHOPEIRA GRÁTIS!</h3>
+            <h3>🍺 CHOPEIRA GRÁTIS!</h3>
             <div class="beer-info">
                 <img src="Chopeira.png" alt="Bebidas">
                 <div>
