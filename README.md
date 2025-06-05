@@ -438,8 +438,9 @@
             <br>
             <p class="text-center">Developed by <a href="https://www.instagram.com/andherssonkaethanno/" target="_blank">Andy</a></p>
         </footer>
-    </div>
-     </div>
+  
+
+     
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
