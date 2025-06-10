@@ -28,7 +28,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             color: white;
-            background: url('kathybebendo.jpeg') no-repeat center center fixed;
+            background: url('Fotoespelho.png') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             min-height: 100vh;
