@@ -28,7 +28,7 @@
         body {
             font-family: 'Roboto', sans-serif;
             color: white;
-            background: url('Fotoespelho.png') no-repeat center center fixed;
+            background: url('kathybebendo.jpeg') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             min-height: 100vh;
@@ -362,13 +362,13 @@
             <h3>👗 DRESS CODE:</h3>
             <ul>
                 <li><strong>Seja você mesmo!</strong> Venha confortável e no seu estilo</li>
-                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno!</li>
+                <li><strong>Opcional:</strong> Se quiser arrasar, vai de look noturno! Vai que rola o after 😃</li>
             </ul>
         </div>
 
         <div class="section">
             <h3>📅 QUANDO:</h3>
-            <p><span class="emoji">🗓️</span> <strong>Sábado, 26 de julho</strong></p>
+            <p><span class="emoji">🗓️</span> <strong>Sábado, 2 de agosto</strong></p>
             <p><span class="emoji">⏰</span> <strong>A partir das 13h, rolando até às 21 horas</strong></p>
         </div>
 
